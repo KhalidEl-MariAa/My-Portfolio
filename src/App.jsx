@@ -24,18 +24,19 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  name: "Khalid Elmaria",
+  title: "Flutter Dev & AI Engineer",
+  email: "khalidmaria13@gmail.com",
+  gitHub: "https://github.com/KhalidEl-MariAa",
+  instagram: "https://www.instagram.com/khalid_aymaan?igsh=MTF4ZTJ4bjFodmYybA==",
+  linkedIn:
+    "https://www.linkedin.com/in/khalid-el-maria-953817215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "https://x.com/khalid_elmaria?t=hMdx-R8P52NHAY6CmqBEgQ&s=09",
+  youTube: "",
 };
 
-const primaryColor = "#4E567E";
+const primaryColor = "#ffffff";
 const secondaryColor = "#D2F1E4";
 
 const App = () => {
