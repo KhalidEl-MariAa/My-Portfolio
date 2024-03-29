@@ -11,7 +11,8 @@ import Footer from "./Components/Footer";
 import Header from "./Components/Header";
 import Home from "./Components/Home";
 import Portfolio from "./Components/Portfolio";
-
+// eslint-disable-next-line no-unused-vars
+import Education from "./Components/Education";
 import "./styles.css";
 
 /**
@@ -49,5 +50,5 @@ const App = () => {
     </div>
   );
 };
-
+<Education />;
 export default App;
