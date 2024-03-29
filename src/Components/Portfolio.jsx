@@ -31,28 +31,30 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Managerial App 🎉",
+    description: "App helps the employer to manage his warehouse.",
+    url: "https://github.com/KhalidEl-MariAa/Managerial-App",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Bookly App",
+    description: "App for buying books online.",
+    url: "https://github.com/KhalidEl-MariAa/bookly-app",
   },
   {
-    title: "My Resume Site",
+    title: "Heart Disease Prediction",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Using AI model to predict the person has heart disease or not according to his features.",
+    url: "https://github.com/KhalidEl-MariAa/Heart_diseases_prediction",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "MINIST Digit Prediction",
+    description: "Using Deep Learning techniques to predict the number by sign language",
+    url: "https://github.com/KhalidEl-MariAa/MNIST-Digit-Prediction",
+  },
+  {
+    title: "Genomic Data Science Notebook",
+    description: "Notebook contains Python functions for DNA processing for beginners",
+    url: "https://colab.research.google.com/drive/1jJybna_NEy9wp74E3tRAzgWo4HWGb89n?usp=sharing",
   },
 ];
 
